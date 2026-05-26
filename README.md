@@ -17,7 +17,7 @@ akash = {
     "college"     : "Karpagam College of Engineering, Coimbatore",
     "university"  : "Anna University",
     "batch"       : "2023 – 2027",
-    "cgpa"        : "8.80",
+    "cgpa"        : "8.81",
     "location"    : "Coimbatore, Tamil Nadu 🇮🇳",
     "focus"       : ["Data Science", "Machine Learning", "Deep Learning", "LLMs", "Agentic AI"],
     "ml_deploy"   : "Flask (integrating ML models into web apps)",
@@ -33,7 +33,7 @@ akash = {
 
 | 🏫 Degree | 🏛️ Institute | 📅 Year | 📊 Score |
 |---|---|---|---|
-| B.Tech – AI & Data Science | Karpagam College of Engineering (Anna University) | 2023 – 2027 | 8.80* CGPA |
+| B.Tech – AI & Data Science | Karpagam College of Engineering (Anna University) | 2023 – 2027 | 8.81 CGPA |
 | HSC | Jayanthi Matric Hr Sec School | 2023 | 89% |
 | SSLC | Jayanthi Matric Hr Sec School | 2021 | — |
 
@@ -104,6 +104,16 @@ akash = {
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Akash_105?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Akash_105/)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -131,6 +141,7 @@ akash = {
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akashc717823i105)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKASH-C-105)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.ak110705@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akash_105/)
 
 </div>
 
