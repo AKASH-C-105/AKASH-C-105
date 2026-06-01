@@ -40,16 +40,47 @@ akash = {
 ---
 
 ## 🚀 Featured Projects
-
-| 🔬 Project | 💡 Description | 🛠️ Stack | 📅 |
-|---|---|---|---|
-| [🎙️ Multimodal Voice RAG Assistant](https://github.com/AKASH-C-105) | Voice + text AI assistant with RAG-based document retrieval, safety guardrails & dynamic indexing | Python, Streamlit, NVIDIA Nemotron, FAISS | Jan '26 |
-| [🛡️ Data Quality Copilot](https://github.com/AKASH-C-105/data-quality-quardian-for-B2B-data) | LLM-powered B2B data validation with fuzzy matching, anomaly detection & job title normalization | Python, LLMs, RapidFuzz, NLP | Dec '25 |
-| [🤖 Research Agent](https://github.com/AKASH-C-105/Research-Agent) | Autonomous AI agent that generates structured research papers using web search + Wikipedia | Python, LangChain, GPT-4o-mini, DuckDuckGo | Jun '25 |
-| [🕳️ Pothole Detection](https://github.com/AKASH-C-105/Pothole-detection-using-yolo) | Real-time road pothole detection in images & video, deployed via Flask | Python, YOLOv8, OpenCV, Flask | Sep '25 |
-| [🌫️ Air Quality Prediction](https://github.com/AKASH-C-105/air-quality-prediction) | MLOps-grade AQI prediction with Docker, CI/CD & Flask API for real-time inference | Python, XGBoost, Flask, Docker | Apr '25 |
-| [💉 Blood Pressure Predictor](https://github.com/AKASH-C-105/Predict-Blood-pressure-using-multilinear-regression-and-Deploy-using-flask) | Health prediction using multiple linear regression deployed as a Flask web app | Python, Flask, Scikit-learn | — |
-
+ 
+### 🌡️ [Temperature Prediction — Weather API + Kafka + Docker + PostgreSQL](https://github.com/AKASH-C-105/temperature-prediction-using-weather-api-kafka-docker-postgres)
+> End-to-end temperature prediction pipeline that fetches hourly weather forecast data, streams it via **Kafka**, containerises with **Docker**, and stores results in **PostgreSQL** for retrieval and modelling.
+ 
+`Jupyter Notebook` `Kafka` `Docker` `PostgreSQL` `Weather API`
+ 
+---
+ 
+### 🛡️ [Data Quality Guardian for B2B Data](https://github.com/AKASH-C-105/data-quality-quardian-for-B2B-data)
+> AI-powered data quality guardian that detects nulls, duplicates, and validation issues in B2B datasets. Uses **LLM standardisation** and an interactive chatbot assistant for intelligent data cleaning.
+ 
+`Python` `LLMs` `NLP` `RapidFuzz` `Rule-Based Systems`
+ 
+---
+ 
+### 🌫️ [Air Quality Prediction — MLOps Pipeline](https://github.com/AKASH-C-105/air-quality-prediction)
+> ML-powered web app for real-time **AQI prediction** using XGBoost and Flask. Deployed on Render.com with **Docker** support and **DVC** for data version control — full MLOps stack.
+ 
+`Python` `XGBoost` `Flask` `Docker` `DVC` `HTML` `Render.com`
+ 
+---
+ 
+### 🕳️ [Pothole Detection — YOLOv8](https://github.com/AKASH-C-105/Pothole-detection-using-yolo)
+> Automated pothole detection using **YOLOv8** object detection on images and live/recorded video streams. Interactive web interface built for real-time infrastructure monitoring.
+ 
+`Python` `YOLOv8` `OpenCV` `Flask` `HTML` `Computer Vision`
+ 
+---
+ 
+### 📈 [Auto MPG Regression Analysis Agent — LangChain + Groq](https://github.com/AKASH-C-105/auto-mpg-regression-analysis-agent-with-langchain-groq)
+> Regression analysis on the Auto MPG dataset with model comparison and **SVR** selection. An **LLM-based agent** (LangChain + Groq) serves predictions and delivers AI-powered insights on the fly.
+ 
+`Jupyter Notebook` `LangChain` `Groq` `Scikit-learn` `Python`
+ 
+---
+ 
+### 🧬 [Gender Classification — Snowflake + Logistic Regression](https://github.com/AKASH-C-105/Gender-classification-using-snowflake-and-logistic-regression)
+> End-to-end ML project for gender classification using data stored in **Snowflake** with secure credential handling and **Logistic Regression** modelling — cloud-native data science workflow.
+ 
+`Python` `Snowflake` `Scikit-learn` `Jupyter Notebook`
+ 
 ---
 
 ## 🛠️ Tech Stack
