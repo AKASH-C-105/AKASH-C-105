@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20C&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%40+Karpagam+College+of+Engineering;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Large+Language+Models+%7C+RAG+%7C+Agentic+AI;Computer+Vision+%7C+YOLOv8+%7C+Flask+Deployments+%F0%9F%9A%80;Building+AI+that+solves+real+problems+%F0%9F%A4%96;Open+to+collaborate+%26+learn!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=🎓+Amazon+ML+Summer+School+2026;B.Tech+AI+%26+Data+Science+%40+Karpagam+College+of+Engineering;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Large+Language+Models+%7C+RAG+%7C+Agentic+AI;Computer+Vision+%7C+YOLOv8+%7C+Flask+Deployments+🚀;Building+AI+that+solves+real+problems+🤖;Open+to+collaborate+%26+learn!" alt="Typing SVG" />
 
 </div>
 
